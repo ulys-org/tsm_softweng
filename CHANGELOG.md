@@ -1,5 +1,12 @@
 # CHANGELOG.md
 
+## v0.0.5
+Fixes:
+ - None
+ 
+Features:
+ - None
+
 ## v0.0.4
 Fixes:
  - fixed LED test
